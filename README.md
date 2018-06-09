@@ -4,6 +4,12 @@ This is a daily log summarizing my work for the day with whatever I feel is rele
 
 ---
 
+#### June 8, 2018
+
+- Completed Section 3 of Hacking with Swift Project 33: What's that Whistle.
+
+---
+
 #### June 7, 2018
 
 - Completed Section 2 of Hacking with Swift Project 33: What's that Whistle.
