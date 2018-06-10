@@ -4,6 +4,13 @@ This is a daily log summarizing my work for the day with whatever I feel is rele
 
 ---
 
+#### June 9, 2018
+
+- Created "Useful Scripts" repo
+- Added auto_dhcp_renew script
+
+---
+
 #### June 8, 2018
 
 - Completed Section 3 of Hacking with Swift Project 33: What's that Whistle.
