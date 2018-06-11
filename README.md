@@ -4,9 +4,15 @@ This is a daily log summarizing my work for the day with whatever I feel is rele
 
 ---
 
+#### June 10, 2018
+
+- Added nvram_clean script to Useful Scripts
+
+---
+
 #### June 9, 2018
 
-- Created "Useful Scripts" repo
+- Created Useful Scripts repo
 - Added auto_dhcp_renew script
 
 ---
