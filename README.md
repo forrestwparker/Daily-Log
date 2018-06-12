@@ -4,6 +4,12 @@ This is a daily log summarizing my work for the day with whatever I feel is rele
 
 ---
 
+#### June 11, 2018
+
+- Started Hacking with Swift Project 34
+
+---
+
 #### June 10, 2018
 
 - Added nvram_clean script to Useful Scripts
