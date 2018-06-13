@@ -4,6 +4,13 @@ This is a daily log summarizing my work for the day with whatever I feel is rele
 
 ---
 
+#### June 12, 2018
+
+- Read part of Swift Design Patterns
+- Updated resume on website
+
+---
+
 #### June 11, 2018
 
 - Started Hacking with Swift Project 34
