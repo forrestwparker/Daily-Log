@@ -4,6 +4,13 @@ This is a daily log summarizing my work for the day with whatever I feel is rele
 
 ---
 
+#### June 13, 2018
+
+- Added OpenVPN scripts to Useful Scripts
+- Read more of Swift Design Patterns
+
+---
+
 #### June 12, 2018
 
 - Read part of Swift Design Patterns
