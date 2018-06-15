@@ -4,6 +4,12 @@ This is a daily log summarizing my work for the day with whatever I feel is rele
 
 ---
 
+#### June 14, 2018
+
+- Began reading Cracking the Coding Interview
+
+---
+
 #### June 13, 2018
 
 - Added OpenVPN scripts to Useful Scripts
