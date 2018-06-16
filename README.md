@@ -4,6 +4,12 @@ This is a daily log summarizing my work for the day with whatever I feel is rele
 
 ---
 
+#### June 15, 2018
+
+- Worked on Ch. 1 exercises from CtCI
+
+---
+
 #### June 14, 2018
 
 - Began reading Cracking the Coding Interview
