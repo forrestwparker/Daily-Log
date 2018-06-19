@@ -4,6 +4,12 @@ This is a daily log summarizing my work for the day with whatever I feel is rele
 
 ---
 
+#### June 19, 2018
+
+- More exercises from CtCI
+
+---
+
 #### June 18, 2018
 
 - More exercises from CtCI
