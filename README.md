@@ -4,6 +4,12 @@ This is a daily log summarizing my work for the day with whatever I feel is rele
 
 ---
 
+#### June 30, 2018
+
+- Read about assorted algorithms (Dijkstra, A*, etc.)
+
+---
+
 #### June 29, 2018
 
 - More exercises from CtCI
