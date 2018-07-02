@@ -4,6 +4,12 @@ This is a daily log summarizing my work for the day with whatever I feel is rele
 
 ---
 
+#### July 1, 2018
+
+- Coded some algorithms from day before in my CtCI project
+
+---
+
 #### June 30, 2018
 
 - Read about assorted algorithms (Dijkstra, A*, etc.)
