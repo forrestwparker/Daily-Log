@@ -4,6 +4,12 @@ This is a daily log summarizing my work for the day with whatever I feel is rele
 
 ---
 
+#### July 4, 2018
+
+- Enjoyed the holiday
+
+---
+
 #### July 3, 2018
 
 - Coded some additional algorithms in CtCI project
