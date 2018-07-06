@@ -4,6 +4,12 @@ This is a daily log summarizing my work for the day with whatever I feel is rele
 
 ---
 
+#### July 5, 2018
+
+- CtCI exercises
+
+---
+
 #### July 4, 2018
 
 - Enjoyed the holiday
