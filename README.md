@@ -4,6 +4,12 @@ This is a daily log summarizing my work for the day with whatever I feel is rele
 
 ---
 
+#### July 14, 2018
+
+- All-day meetup
+
+---
+
 #### July 13, 2018
 
 - A badly needed day of rest
