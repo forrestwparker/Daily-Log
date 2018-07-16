@@ -4,6 +4,12 @@ This is a daily log summarizing my work for the day with whatever I feel is rele
 
 ---
 
+#### July 16, 2018
+
+- Whiteboarding practice
+
+---
+
 #### July 15, 2018
 
 - Studied advanced topics from CtCI
