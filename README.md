@@ -4,6 +4,13 @@ This is a daily log summarizing my work for the day with whatever I feel is rele
 
 ---
 
+#### July 31, 2018
+
+- Implemented more algos and data structures in CtCI project
+- Whiteboarding
+
+---
+
 #### July 30, 2018
 
 - Implemented more algos and data structures in CtCI project
