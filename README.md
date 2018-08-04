@@ -4,6 +4,12 @@ This is a daily log summarizing my work for the day with whatever I feel is rele
 
 ---
 
+#### August 4, 2018
+
+- Enjoying a relaxing weekend
+
+---
+
 #### August 3, 2018
 
 - Whiteboarding practice
