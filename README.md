@@ -4,6 +4,12 @@ This is a daily log summarizing my work for the day with whatever I feel is rele
 
 ---
 
+#### August 14, 2018
+
+- Whiteboarding
+
+---
+
 #### August 13, 2018
 
 - Whiteboarding practice
