@@ -4,6 +4,12 @@ This is a daily log summarizing my work for the day with whatever I feel is rele
 
 ---
 
+#### August 16, 2018
+
+- Day off
+
+---
+
 #### August 15, 2018
 
 - Algorithms and data structures for CtCI project
